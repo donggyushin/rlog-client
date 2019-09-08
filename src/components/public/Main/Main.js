@@ -6,7 +6,7 @@ import Body from './Body';
 
 const Container = styled.div`
     min-height: 100vh;
-    background: #031321;
+    /* background: #031321; */
 `
 
 class Main extends React.Component {

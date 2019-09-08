@@ -4,6 +4,7 @@ import styled from 'styled-components';
 const Container = styled.div`
     width:869px;
     height:360px;
+    border-radius:4px;
     background-size:cover;
     background-position:center;
     margin-top: 66px;

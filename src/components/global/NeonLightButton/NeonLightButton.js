@@ -13,12 +13,12 @@ const Container = styled.a`
     overflow:hidden;
     transition: 0.2s;
     cursor: pointer;
-    &:hover {
+    /* &:hover {
         color:#255784;
         background:#2196f3;
         box-shadow: 0 0 10px #2196f3,0 0 40px #2196f3,0 0 80px #2196f3;
         transition-delay: 1s;
-    }
+    } */
 `
 
 const Span = styled.span`
