@@ -18,10 +18,8 @@ const animate = keyframes`
 const Container = styled.div`
     transform: translate(-50%, -50%) skewY(-5deg);
     position:absolute;
-    top:50%;
-    right:7%;
     border: 4px solid #fff;
-    padding:20px 50px;
+    padding:3px 10px;
     border-radius:10px;
     box-shadow: 0 0 10px #2196f3,0 0 30px #2196f3, inset 0 0 10px #2196f3, inset 0 0 30px #2196f3;
     animation: ${animate} .4s linear infinite;
@@ -31,7 +29,7 @@ const Container = styled.div`
     z-index: -1;
     width: 100%;
     position: absolute;
-    bottom: 32px;
+    bottom: 11px;
     left: 0;
     height: 2px;
     background: #fff;
@@ -42,7 +40,7 @@ const Container = styled.div`
     z-index: -1;
     width: 100%;
     position: absolute;
-    bottom: 46px;
+    bottom: 20px;
     left: 0;
     height: 2px;
     background: #fff;
@@ -54,7 +52,7 @@ const Container = styled.div`
 const H1 = styled.h1`
     margin:0;
     padding:0;
-    font-size:39px;
+    font-size:24px;
     color: #fff;
     text-shadow: 0 0 10px #2196f3,0 0 20px #2196f3, 0 0 80px #2196f3,0 0 120px #2196f3;
     user-select:none;

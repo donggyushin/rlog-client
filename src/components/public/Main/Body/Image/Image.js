@@ -7,7 +7,7 @@ const Container = styled.div`
     border-radius:4px;
     background-size:cover;
     background-position:center;
-    margin-top: 66px;
+    margin-top: 192px;
     margin-left: 58px;
     background-image:url('https://miro.medium.com/max/4000/1*9ovc_rTIxEwQwQkCXPx2GA.jpeg');
     overflow:hidden;
